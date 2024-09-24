@@ -409,6 +409,10 @@ footer a:hover {
   transform: scale(1.1);
 }
 
+.img-about {
+  width: 100%;
+}
+
 .pg-break {
   height: 20rem;
 }
